@@ -4,9 +4,9 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "idn-quake-info"
-version = "0.1"
+version = "0.1.1"
 authors = [
-  { name="Risky Mulya", email="riskymulya@protonmail.com" },
+  { name="Risky Mulya Nugraha", email="riskymulya@protonmail.com" },
 ]
 description = "This package extracts the latest earthquake information from the official website of the Indonesian Meteorology, Climatology, and Geophysics Agency (BMKG)"
 readme = "README.md"
